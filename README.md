@@ -34,7 +34,7 @@ The notebook likely details the experimental setup, results, and analysis of the
 
 Future work could explore:
 
-* More advanced RL techniques, such as hierarchical reinforcement learning or multi-agent systems.
+* More advanced RL techniques, suchs as hierarchical reinforcement learning or multi-agent systems.
 * Integration with real-time transaction streams for continuous learning.
 * Investigation of different feature engineering strategies to enhance the agent's perception of fraudulent activities.
 * Robustness analysis against adversarial attacks.
@@ -45,15 +45,15 @@ To run the notebook and reproduce the results, you will need:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone [https://github.com/RL-Project/classical-methods-testing.git](https://github.com/RL-Project/classical-methods-testing.git)
+    cd classical-methods-testing
     ```
 2.  **Download the dataset:**
     The dataset can be downloaded directly from Kaggle: [Credit Card Fraud Detection](https://www.kaggle.com/datasets/dalpozz/creditcardfraud). Place the `creditcard.csv` file in the appropriate directory (as expected by the notebook).
 3.  **Install dependencies:**
     It is recommended to use a virtual environment.
     ```bash
-    pip install -r requirements.txt # (Assuming a requirements.txt file will be created)
+    pip install -r requirements.txt # (Assuming a requirements.txt file will be created, otherwise install manually)
     ```
     *If no `requirements.txt` is provided, commonly used libraries for this type of project include:*
     ```bash
