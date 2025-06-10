@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn
+tensorflow # or pytorch, depending on the deep learning framework used
+jupyter
+matplotlib
+seaborn
